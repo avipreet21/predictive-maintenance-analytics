@@ -156,8 +156,7 @@ Random Forest was selected because it:
 ## Failure Mode Analysis
 
 ### Failure Mode Counts
-
-![Failure Mode Counts](Charts/failure_mode_counts_bar.png)
+<img width="1000" height="600" alt="failure_mode_counts_bar" src="https://github.com/user-attachments/assets/397c0989-0a19-46b9-83e4-e5cfb3129d28" />
 
 ### Findings
 
@@ -170,7 +169,8 @@ Random Forest was selected because it:
 
 ## Failure Mode Distribution
 
-![Failure Mode Distribution](Charts/failure_mode_distribution_pie.png)
+<img width="800" height="800" alt="failure_mode_distribution_pie" src="https://github.com/user-attachments/assets/3cdf641b-35d6-4b47-831b-f2084ce93d51" />
+
 
 ### Findings
 
@@ -182,7 +182,8 @@ Random Forest was selected because it:
 
 ## Temperature Distribution Analysis
 
-![Temperature Distribution](Charts/temperature_distribution_failure.png)
+<img width="1000" height="600" alt="temperature_distribution_failure" src="https://github.com/user-attachments/assets/32ed6e0e-8b98-4e36-96a3-1f5809407739" />
+
 
 ### Findings
 
@@ -194,7 +195,8 @@ Random Forest was selected because it:
 
 ## Process Temperature vs Rotational Speed
 
-![Temperature vs Rotor Speed](Charts/temperature_vs_rotor_speed.png)
+<img width="1000" height="600" alt="temperature_vs_rotor_speed" src="https://github.com/user-attachments/assets/58a30069-f6a4-4955-8772-b8bd07fdd94d" />
+
 
 ### Findings
 
@@ -206,7 +208,7 @@ Random Forest was selected because it:
 
 ## Heat Dissipation Failure Visualization
 
-![Heat Dissipation Failure](Charts/temperature_vs_rotor_speed_heat_dissipation.png)
+<img width="1000" height="600" alt="temperature_vs_rotor_speed_heat_dissipation" src="https://github.com/user-attachments/assets/7292371a-ab42-483b-9c49-bde1fa63227b" />
 
 ### Findings
 
@@ -218,7 +220,8 @@ Random Forest was selected because it:
 
 ## Torque vs Rotational Speed
 
-![Torque vs Rotor Speed](Charts/torque_vs_rotor_speed.png)
+<img width="1000" height="600" alt="torque_vs_rotor_speed" src="https://github.com/user-attachments/assets/4021fb3a-7a0b-4ae6-a87e-bc554e7445ba" />
+
 
 ### Findings
 
@@ -230,7 +233,8 @@ Random Forest was selected because it:
 
 ## Overstrain Failure Analysis
 
-![Overstrain Failure](Charts/torque_vs_rotor_speed_overstrain.png)
+<img width="1000" height="600" alt="torque_vs_rotor_speed_overstrain" src="https://github.com/user-attachments/assets/314adb7f-5bca-419b-9d51-92edb22779a4" />
+
 
 ### Findings
 
@@ -242,7 +246,8 @@ Random Forest was selected because it:
 
 ## Confusion Matrix
 
-![Confusion Matrix](Charts/model_confusion_matrix.png)
+<img width="800" height="600" alt="model_confusion_matrix" src="https://github.com/user-attachments/assets/775fcd66-8d3f-498b-bb2a-eabf5ce8bba7" />
+
 
 ### Findings
 
@@ -255,7 +260,8 @@ Random Forest was selected because it:
 
 ## Feature Importance
 
-![Feature Importance](Charts/model_feature_importance_bar.png)
+<img width="1000" height="600" alt="failure_mode_counts_bar" src="https://github.com/user-attachments/assets/7b0fcd40-b252-439e-9694-2fdd1fcdafae" />
+
 
 ### Findings
 
