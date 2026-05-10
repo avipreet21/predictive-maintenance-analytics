@@ -157,7 +157,7 @@ Random Forest was selected because it:
 
 ### Failure Mode Counts
 
-![Failure Mode Counts](charts/failure_mode_counts_bar.png)
+![Failure Mode Counts](Charts/failure_mode_counts_bar.png)
 
 ### Findings
 
@@ -170,7 +170,7 @@ Random Forest was selected because it:
 
 ## Failure Mode Distribution
 
-![Failure Mode Distribution](charts/failure_mode_distribution_pie.png)
+![Failure Mode Distribution](Charts/failure_mode_distribution_pie.png)
 
 ### Findings
 
@@ -182,7 +182,7 @@ Random Forest was selected because it:
 
 ## Temperature Distribution Analysis
 
-![Temperature Distribution](charts/temperature_distribution_failure.png)
+![Temperature Distribution](Charts/temperature_distribution_failure.png)
 
 ### Findings
 
@@ -194,7 +194,7 @@ Random Forest was selected because it:
 
 ## Process Temperature vs Rotational Speed
 
-![Temperature vs Rotor Speed](charts/temperature_vs_rotor_speed.png)
+![Temperature vs Rotor Speed](Charts/temperature_vs_rotor_speed.png)
 
 ### Findings
 
@@ -206,7 +206,7 @@ Random Forest was selected because it:
 
 ## Heat Dissipation Failure Visualization
 
-![Heat Dissipation Failure](charts/temperature_vs_rotor_speed_heat_dissipation.png)
+![Heat Dissipation Failure](Charts/temperature_vs_rotor_speed_heat_dissipation.png)
 
 ### Findings
 
@@ -218,7 +218,7 @@ Random Forest was selected because it:
 
 ## Torque vs Rotational Speed
 
-![Torque vs Rotor Speed](charts/torque_vs_rotor_speed.png)
+![Torque vs Rotor Speed](Charts/torque_vs_rotor_speed.png)
 
 ### Findings
 
@@ -230,7 +230,7 @@ Random Forest was selected because it:
 
 ## Overstrain Failure Analysis
 
-![Overstrain Failure](charts/torque_vs_rotor_speed_overstrain.png)
+![Overstrain Failure](Charts/torque_vs_rotor_speed_overstrain.png)
 
 ### Findings
 
@@ -242,7 +242,7 @@ Random Forest was selected because it:
 
 ## Confusion Matrix
 
-![Confusion Matrix](charts/model_confusion_matrix.png)
+![Confusion Matrix](Charts/model_confusion_matrix.png)
 
 ### Findings
 
@@ -255,7 +255,7 @@ Random Forest was selected because it:
 
 ## Feature Importance
 
-![Feature Importance](charts/model_feature_importance_bar.png)
+![Feature Importance](Charts/model_feature_importance_bar.png)
 
 ### Findings
 
