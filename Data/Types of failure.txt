@@ -1,0 +1,71 @@
+Tool Wear Failure (TWF)
+
+When:
+
+tool becomes too worn out
+
+This is like:
+
+brake wear in cars
+tire wear
+engine wear
+
+Classic maintenance problem.
+
+2. Heat Dissipation Failure (HDF)
+
+Machine overheats because cooling is insufficient.
+
+Condition:
+
+process temp too close to air temp
+low RPM
+
+This means:
+
+machine cannot remove heat properly
+
+Very realistic engineering problem.
+
+3. Power Failure (PWF)
+
+Power calculation becomes abnormal.
+
+The dataset uses:
+
+P=τω
+
+Where:
+
+P = power
+τ = torque
+ω = rotational speed
+
+Too low or too high power causes failure.
+
+This is similar to:
+
+engine overload
+unstable motor operation
+4. Overstrain Failure (OSF)
+
+Too much combined stress:
+
+high torque
+high wear
+
+The machine exceeds safe operating limits.
+
+This is similar to:
+
+pushing machinery too hard
+mechanical fatigue
+5. Random Failure (RNF)
+
+Tiny random chance of failure.
+
+Represents:
+
+unpredictable events
+manufacturing defects
+random malfunctions
