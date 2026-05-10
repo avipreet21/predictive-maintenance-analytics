@@ -89,17 +89,3 @@ plt.ylabel("Rotor Speed [rpm]")
 plt.colorbar(label='Overstrain Failure')
 plt.savefig("charts/torque_vs_rotor_speed_overstrain.png")
 plt.show()
-
-# Plotting torque vs rotor speed colored by power failure
-normal = df[df["Power failure"] == 0]
-failed = df[df["Power failure"] == 1]
-
-plt.figure(figsize=(10,6))
-plt.scatter(normal["torque_nm"], normal['rotational_speed_rpm'], alpha=0.3, label='Normal')
-plt.scatter(failed["torque_nm"], failed['rotational_speed_rpm'], alpha=0.9, label='Failed')
-plt.title("Torque vs Rotor Speed Colored by Power Failure")
-plt.xlabel("Torque [Nm]")
-plt.ylabel("Rotor Speed [rpm]")
-plt.colorbar(label='Power Failure')
-plt.savefig("charts/torque_vs_rotor_speed_power.png")
-plt.show()
