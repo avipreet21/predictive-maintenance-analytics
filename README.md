@@ -341,12 +341,29 @@ predictive-maintenance-project/
 ├── charts/
 │
 ├── outputs/
-│
+├── dashboard/
+│   ├── predictive-maintenance-dashboard.pbix
+│   └── dashboard_overview.pdf
 ├── requirements.txt
 ├── .gitignore
 └── README.md
 ```
+# Power BI Dashboard
 
+This project also includes an interactive Power BI dashboard used to visualize:
+
+- Operational KPIs
+- Failure analysis
+- Telemetry analytics
+- Machine learning model insights
+
+## Dashboard Features
+
+- Interactive slicers
+- Failure mode analysis
+- Telemetry scatter plots
+- Feature importance visualization
+- Confusion matrix analysis
 ---
 
 # Author
