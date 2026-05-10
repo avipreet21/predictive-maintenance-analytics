@@ -9,6 +9,7 @@ print(df.head())
 
 print("\nSummary statistics:")
 print(df.describe())
+df.describe().to_csv("data/summary_statistics.csv")
 
 print("\nColumn names:")
 print(df.columns)
