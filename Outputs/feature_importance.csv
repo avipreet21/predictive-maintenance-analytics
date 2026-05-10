@@ -1,0 +1,12 @@
+Feature,Importance
+wear_Stress,0.2062802697840313
+power,0.17881049299300839
+temperature difference,0.1540170146057399
+rotational_speed_rpm,0.13693322838197902
+torque_nm,0.13012539812738003
+tool_wear_min,0.05873435909803467
+air_temperature_k,0.04811300243118653
+process_temperature_k,0.03828971920884208
+low_rotational_speed_flag,0.030733627222921816
+high_torque_flag,0.01260058376789524
+high_temperature_flag,0.005362304378981121

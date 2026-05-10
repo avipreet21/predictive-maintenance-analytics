@@ -43,3 +43,30 @@ print(classification_report(y_test, y_pred))
 
 print("\nConfusion Matrix:")
 print(confusion_matrix(y_test, y_pred))
+
+importance_df = pd.DataFrame({
+    "Feature": features,
+    "Importance": model.feature_importances_
+})
+
+importance_df = importance_df.sort_values(
+    by="Importance",
+    ascending=False
+)
+
+confusion_df = pd.DataFrame(
+    confusion_matrix(y_test, y_pred),
+    index=["Actual Normal", "Actual Failed"],
+    columns=["Predicted Normal", "Predicted Failed"]
+)
+
+print("\nFEATURE IMPORTANCE")
+print(importance_df)
+# Save model outputs to CSV files
+
+importance_df.to_csv("Outputs/feature_importance.csv", index=False)
+confusion_df.to_csv("Outputs/confusion_matrix.csv", index=False)
+
+y_test.to_csv("Outputs/y_test.csv", index=False)
+y_pred_df = pd.DataFrame(y_pred, columns=["Predicted Machine Failure"])
+y_pred_df.to_csv("Outputs/y_pred.csv", index=False)
