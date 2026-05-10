@@ -15,9 +15,5 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Output files
-outputs/
-charts/
-
 # Environment variables
 .env
