@@ -157,7 +157,7 @@ Random Forest was selected because it:
 
 ### Failure Mode Counts
 
-![Failure Mode Counts](charts/01_failure_mode_counts.png)
+![Failure Mode Counts](charts/failure_mode_counts_bar.png)
 
 ### Findings
 
@@ -170,7 +170,7 @@ Random Forest was selected because it:
 
 ## Failure Mode Distribution
 
-![Failure Mode Distribution](charts/02_failure_mode_distribution.png)
+![Failure Mode Distribution](charts/failure_mode_distribution_pie.png)
 
 ### Findings
 
@@ -242,7 +242,7 @@ Random Forest was selected because it:
 
 ## Confusion Matrix
 
-![Confusion Matrix](charts/confusion_matrix.png)
+![Confusion Matrix](charts/model_confusion_matrix.png)
 
 ### Findings
 
@@ -255,7 +255,7 @@ Random Forest was selected because it:
 
 ## Feature Importance
 
-![Feature Importance](charts/feature_importance.png)
+![Feature Importance](charts/model_feature_importance_bar.png)
 
 ### Findings
 
