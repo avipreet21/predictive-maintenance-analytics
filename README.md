@@ -2,7 +2,8 @@
 
 ## Overview
 
-[predictive-maintenance-analytics.pdf](https://github.com/user-attachments/files/27579813/predictive-maintenance-analytics.pdf)
+<img width="645" height="358" alt="Screenshot 2026-05-10 145948" src="https://github.com/user-attachments/assets/04d76eeb-f26e-4986-8dc1-2a7b1f53e482" />
+
 
 
 This project is an AI-powered predictive maintenance analytics system built using Python, Pandas, Matplotlib, Scikit-learn, and Power BI concepts. The project analyzes industrial machine telemetry data to identify machine failure patterns, engineer meaningful operational features, and train a machine learning model capable of predicting machine failures.
